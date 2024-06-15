@@ -1,6 +1,15 @@
-# Sour Soup - Junior Developer 👨‍💻
+# Sour Soup 👨‍💻
 
 ## Skills
+
+![My Skills](https://skillicons.dev/icons?i=java,python,c++,c#,js,html,css&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=gradle,maven,docker,git&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=postgres,kafka&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=spring,react&theme=dark)
+
 
 ### Programming Languages:
 - **C++** 🖥️
